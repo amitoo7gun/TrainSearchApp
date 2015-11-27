@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">One Tap Train</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content_authority">com.example.amit.cube26</string>
+    <string name="sync_account_type">cube26.example.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">Train Details</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_material_test">MaterialTest</string>
+    <array name="sort_menu">
+        <item>By Price</item>
+        <item>By Rating</item>
+    </array>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_city_selection">One Tap Train</string>
+
+</resources>
